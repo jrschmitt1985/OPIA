@@ -1,6 +1,6 @@
 import numpy as np
 import pandas as pd
-
+## geracao de poços artificiais
 np.random.seed(123)
 n_pocos = 50
 
