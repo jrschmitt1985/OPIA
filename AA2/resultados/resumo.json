@@ -1,0 +1,58 @@
+{
+  "metadados": {
+    "poco": "15/9-14",
+    "arquivo": "15_9-14.las",
+    "sha256": "45128f4070ffa50c707f98383ce498922a1c26a77cf224f1384cdf973f397b3a",
+    "amostras": 22875,
+    "profundidade_min_m": 98.804000854,
+    "profundidade_max_m": 3575.6520009,
+    "passo_mediano_m": 0.15200000000004366,
+    "passo_cabecalho_m": 0.152,
+    "null_declarado": -999.25,
+    "fontes": {
+      "chave_litologica": "https://thinkonward.com/app/c/challenges/force-well-logs",
+      "dataset": "https://zenodo.org/records/4351156",
+      "doi": "https://doi.org/10.5281/zenodo.4351156",
+      "repositorio": "https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition",
+      "aula3": "https://colab.research.google.com/drive/1NhK84WwXNiG4HQSUbKZ0pUcT5ezVX7Xx",
+      "dados_sinteticos": "https://colab.research.google.com/drive/1mm2gUmYbqO4MBcEgLr2LVAKkRSTvLGRZ",
+      "archie": "https://glossary.slb.com/en/terms/a/archie_equation"
+    },
+    "licenca_registro": "CC BY 4.0; origem NOLD 2.0, conforme Zenodo"
+  },
+  "parametros": {
+    "arquivo_las": "dados/15_9-14.las",
+    "curvas": {
+      "GR": "GR",
+      "RT": "RDEP",
+      "NPHI": "NPHI",
+      "RHOB": "RHOB"
+    },
+    "gr_limpo_api": 30.0,
+    "gr_folhelho_api": 150.0,
+    "rw_ohm_m": 0.1,
+    "archie_a": 1.0,
+    "archie_m": 2.0,
+    "archie_n": 2.0,
+    "rho_matriz_g_cm3": 2.65,
+    "rho_fluido_g_cm3": 1.0,
+    "phi_min": 0.12,
+    "sw_max": 0.5,
+    "vcl_max": 0.4,
+    "interpolar_lacuna_max_m": 0.5,
+    "intervalo_min_m": 1.0
+  },
+  "resultados": {
+    "amostras": 22875,
+    "amostras_avaliaveis": 20050,
+    "amostras_potenciais": 126,
+    "extensao_amostrada_md_m": 3476.8480000460004,
+    "extensao_avaliavel_md_m": 3047.6000000500007,
+    "espessura_potencial_md_m": 19.152000000000157,
+    "fracao_potencial_sobre_avaliavel": 0.006284289276704928,
+    "intervalos_potenciais": 22,
+    "intervalos_com_espessura_minima": 7,
+    "amostras_potenciais_carvao": 74,
+    "sw_bruta_acima_1": 11783
+  }
+}

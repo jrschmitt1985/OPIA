@@ -1,0 +1,17 @@
+{
+  "arquivo_las": "dados/15_9-14.las",
+  "curvas": {"GR": "GR", "RT": "RDEP", "NPHI": "NPHI", "RHOB": "RHOB"},
+  "gr_limpo_api": 30.0,
+  "gr_folhelho_api": 150.0,
+  "rw_ohm_m": 0.1,
+  "archie_a": 1.0,
+  "archie_m": 2.0,
+  "archie_n": 2.0,
+  "rho_matriz_g_cm3": 2.65,
+  "rho_fluido_g_cm3": 1.0,
+  "phi_min": 0.12,
+  "sw_max": 0.5,
+  "vcl_max": 0.4,
+  "interpolar_lacuna_max_m": 0.5,
+  "intervalo_min_m": 1.0
+}
